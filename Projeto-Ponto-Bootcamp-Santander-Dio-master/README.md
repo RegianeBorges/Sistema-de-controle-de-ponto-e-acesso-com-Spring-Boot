@@ -47,7 +47,4 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
 
 
-email:sergio.desenvolvedor.web@gmail.com
-
-
 
